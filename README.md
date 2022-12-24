@@ -21,3 +21,4 @@
 
 ## Finance
 - [Car buy vs subscription](https://docs.google.com/spreadsheets/d/1leW3X9Pk8G9D0uGKecJhKzLg8bq3x19lHau9Hpnxom0/edit?usp=sharing)
+- [Buy vs rent a house](https://drive.google.com/file/d/1t8W_KdcvQWdHmAbJ3rF21rQMNkp-VI4l/view)
