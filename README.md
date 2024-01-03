@@ -20,6 +20,7 @@
 - [About Google Sheets](https://www.google.com/sheets/about/)
 
 ## Finance
-- [Car buy vs subscription](https://docs.google.com/spreadsheets/d/1leW3X9Pk8G9D0uGKecJhKzLg8bq3x19lHau9Hpnxom0/edit?usp=sharing)
-- [Buy vs rent a house](https://drive.google.com/file/d/1t8W_KdcvQWdHmAbJ3rF21rQMNkp-VI4l/view)
+- [Car buy vs subscription](https://docs.google.com/spreadsheets/d/1leW3X9Pk8G9D0uGKecJhKzLg8bq3x19lHau9Hpnxom0/edit?usp=sharing) - by Ankur Warikoo
+- [Buy vs rent a house](https://drive.google.com/file/d/1t8W_KdcvQWdHmAbJ3rF21rQMNkp-VI4l/view) - by Ankur Warikoo
+- [What Car can I buy](https://docs.google.com/spreadsheets/d/1wXr_HJrs7DmDgZNdUhdEiqZtqyxnra_iF9xbD8A4zAU) by Ankur Warikoo
 - [Compound interest calculator](https://docs.google.com/spreadsheets/d/1g_RH7jzYLFrsIj4FkM87tKVKXX2ECsszt4tK6rfhONw/edit?usp=sharing)
